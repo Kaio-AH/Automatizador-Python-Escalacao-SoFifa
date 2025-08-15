@@ -2,4 +2,4 @@ playwright
 beautifulsoup4
 pandas
 lxml
-re
+typer
